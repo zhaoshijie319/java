@@ -1,6 +1,8 @@
 package io;
 
-import java.io.*;
+import java.io.BufferedInputStream;
+import java.io.FileInputStream;
+import java.io.IOException;
 import java.nio.file.Paths;
 
 public class ByteIO {

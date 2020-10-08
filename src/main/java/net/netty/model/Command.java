@@ -3,6 +3,7 @@ package net.netty.model;
 import lombok.Data;
 
 import java.io.Serializable;
+
 @Data
 public class Command implements Serializable {
 

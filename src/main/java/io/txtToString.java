@@ -3,7 +3,6 @@ package io;
 import org.springframework.util.StringUtils;
 
 import java.io.*;
-import java.net.InetAddress;
 
 public class txtToString {
 
